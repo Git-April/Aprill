@@ -1,6 +1,6 @@
 class FooterBar extends HTMLElement {
   connectedCallback() {
-    fetch('footer-bar.html')
+    fetch('/footer-bar.html')
       .then(response => response.text())
       .then(html => this.innerHTML = html);
   }
