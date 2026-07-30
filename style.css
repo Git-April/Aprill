@@ -50,3 +50,9 @@ a:active {
   padding: 5px;
   border-radius: 5px;
 }
+
+.blog-content {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
