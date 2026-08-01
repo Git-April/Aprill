@@ -1,0 +1,13 @@
+<?xml version"1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Aprill.Space</title>
+    <link>https://aprill.space/</link>
+    <item>
+      <title>First Blog</title>
+      <description>2026-07-19</description>
+      <link>https://aprill.space/blog/2026-07-19.html</link>
+      <pubdate>Sun, Jul 19 12:00:00 GMT</pubdate>
+    </item>
+  </channel>
+</rss>
